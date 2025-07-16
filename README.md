@@ -1,6 +1,3 @@
-# Cronos
-
-> **The open‑source EVM chain built with the Cosmos SDK, designed for lightning‑fast DeFi, NFT and AI‑powered dApps.**
 
 <p align="center">
   <img src="./assets/cronos.svg" alt="Cronos Logo" width="260"/>
@@ -11,6 +8,9 @@
   <a href="https://github.com/crypto-org-chain/cronos/releases"><img src="https://img.shields.io/github/v/release/crypto-org-chain/cronos?include_prereleases&style=for-the-badge" alt="Latest Release"/></a>
   <a href="https://github.com/crypto-org-chain/cronos/releases"><img src="https://img.shields.io/github/downloads/crypto-org-chain/cronos/total?style=for-the-badge" alt="Total Downloads"/></a>
 </p>
+
+
+> **The open‑source EVM chain built with the Cosmos SDK, designed for lightning‑fast DeFi, NFT and AI‑powered dApps.**
 
 ---
 
